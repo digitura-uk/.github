@@ -20,5 +20,5 @@ We’re building quietly, but intentionally.
 No hype. Just flow.
 
 > Want to say hi? [hello@digitura.uk](mailto:hello@digitura.uk)
-> 👀 Preview: [![View on GitHub](https://img.shields.io/badge/Digitura‑uk‑on‑GitHub-181717?logo=github&style=for-the-badge)](https://github.com/digitura-uk)
+> [![View on GitHub](https://img.shields.io/badge/Digitura‑uk‑on‑GitHub-181717?logo=github&style=for-the-badge)](https://github.com/digitura-uk)
 
