@@ -1,4 +1,4 @@
-## 👋 Hi there — welcome to Digitura
+## 👋 Hi there — welcome to > [![View on GitHub](https://img.shields.io/badge/Digitura‑uk‑on‑GitHub-181717?logo=github&style=for-the-badge)](https://github.com/digitura-uk)
 
 Digitura.uk is a software lab focused on building clean, fast, AI‑powered tools.
 
