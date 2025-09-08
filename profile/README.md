@@ -21,6 +21,6 @@ No hype. Just flow.
 
 📦 Public tools and starter kits — like [Emoji Box](https://github.com/digitura-uk/cool-emoji-box)
 
-> Want to say hi? [hello@digitura.uk](mailto:hello@digitura.uk)
+> Want to say hi? [hello@digitura.uk](mailto:mytestbed@proton.me)
 
 
