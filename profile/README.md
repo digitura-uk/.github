@@ -37,5 +37,5 @@ No hype. Just building.
 
 ---
 
-📬 Contact: mytestbed@proton.me  
+📬 Contact: hello@digitura.uk  
 📢 Bluesky: https://bsky.app/profile/digitura.uk
