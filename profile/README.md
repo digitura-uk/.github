@@ -1,28 +1,32 @@
 ## 👋 Hi there — welcome to: [![Digitura.uk on GitHub](https://img.shields.io/badge/Digitura.uk_on_GitHub-24292f?logo=github&logoColor=white&style=for-the-badge)](https://github.com/digitura-uk)
 
-Digitura.uk is a software lab focused on building clean, fast, AI‑powered tools.
+Digitura is a small software lab exploring modern AI systems, automation pipelines, and developer infrastructure.
 
-We’re exploring ideas, workflows, and infrastructure using:
+We build experimental tooling around:
 
-⚙️ **React** · **Next.js** · **Supabase** · **n8n**  
-🧠 **Langflow** · **Cursor** · **Cloudflare** · more...
+⚙️ **TypeScript** · **React** · **Next.js** · **Node.js**  
+🌐 **Cloudflare Workers** · **Vercel** · **Edge runtimes**  
+🧠 **LLM agents** · **MCP servers** · **vector memory**  
+🗄 **Supabase** · **Postgres** · **Redis / KV**
 
-Our aim?  
-To make automation accessible — and fun — with minimal code and maximum clarity.
+The focus is simple:
 
-This space includes:
+Build practical AI systems that can **discover information, reason about it, and act on it** — safely and reliably.
 
-- 🧪 Experiments in automation, prompt design, and AI workflows  
-- 📦 Public tools and starter kits (like Emoji Box)  
-- 📓 Notes and blueprints as we go
+This organization contains:
 
-We’re building quietly, but intentionally.  
-No hype. Just flow.
+- 🧪 Experiments in agent design, orchestration, and tool use  
+- 🔧 Infrastructure projects (automation engines, MCP tooling, pipelines)  
+- 📦 Developer utilities and reference implementations  
+- 📓 Architecture notes and build logs as projects evolve
 
-📦 Public tools and starter kits — like [Emoji Box](https://github.com/digitura-uk/cool-emoji-box)
+Most projects here are **working systems in progress**.  
+Some are prototypes, some become full platforms.
 
-> Want to say hi? mytestbed@proton.me]
-> 📢 [Follow on Bluesky](https://bsky.app/profile/digitura.uk)
+No hype.  
+Just building.
 
+---
 
-
+📬 Contact: mytestbed@proton.me  
+📢 Bluesky: https://bsky.app/profile/digitura.uk
